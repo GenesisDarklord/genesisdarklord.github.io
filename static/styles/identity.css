@@ -1,3 +1,15 @@
 body {
     background-image: url("/static/img/main_background.jpg");
+    justify-self: center;
+    width: 70%;
+    flex: auto;
+}
+
+a {
+    margin: 12px;
+}
+
+nav {
+    width: 100%;
+    text-align: right;
 }
